@@ -1,1 +1,6 @@
 D:\GitHub\Education\Education\bin\Debug\Education.exe.config
+D:\GitHub\Education\Education\obj\Debug\Education.csprojResolveAssemblyReference.cache
+D:\GitHub\Education\Education\bin\Debug\Education.exe
+D:\GitHub\Education\Education\bin\Debug\Education.pdb
+D:\GitHub\Education\Education\obj\Debug\Education.exe
+D:\GitHub\Education\Education\obj\Debug\Education.pdb
